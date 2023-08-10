@@ -22,8 +22,8 @@ implementation("run.nabla:qr:1.0.0")
 ```
 
 ## Screenshots
-![Screenshot showing qr](images/screenshot.jpg "Screenshot showing qr")
 
+<img src="images/screenshot.jpg" alt="Screenshot showing qr" height="450px"/>
 
 ## Functions
 
