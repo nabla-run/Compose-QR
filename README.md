@@ -25,7 +25,7 @@ implementation("run.nabla:qr:1.0.0")
 
 ## Screenshots
 
-<img src="images/screenshot.jpg" alt="Screenshot showing qr" height="450px"/>
+<img src="images/screenshot.png" alt="Screenshot showing qr" height="450px"/>
 
 ## Example
 
