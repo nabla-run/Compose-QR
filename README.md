@@ -6,6 +6,7 @@
   <a href="https://developer.android.com/about/versions/nougat/android-7.0"><img alt="API" src="https://img.shields.io/badge/API-24%2B-brightgreen.svg?style=flat"/></a>
   <a href="https://github.com/nabla-run/Compose-QR/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/github/license/nabla-run/Compose-QR"/></a>
 </p>
+
 ## Setup
 
 Library is available on `mavenCentral()`.
@@ -21,6 +22,7 @@ implementation("run.nabla:qr:1.0.0")
 ```
 
 ## Screenshots
+![Screenshot showing qr](images/screenshot.jpg "Screenshot showing qr")
 
 
 ## Functions
