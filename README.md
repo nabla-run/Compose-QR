@@ -7,6 +7,8 @@
   <a href="https://github.com/nabla-run/Compose-QR/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/github/license/nabla-run/Compose-QR"/></a>
 </p>
 
+The QRImage component allows you to easily integrate a QR code into your Compose UI.
+
 ## Setup
 
 Library is available on `mavenCentral()`.
@@ -25,7 +27,17 @@ implementation("run.nabla:qr:1.0.0")
 
 <img src="images/screenshot.jpg" alt="Screenshot showing qr" height="450px"/>
 
-## Functions
+## Example
+
+Call the QRImage component just like any other Compose component:
+
+```kotlin
+QRImage(
+    type = QRType.ROUND,
+    text = "demo",
+    imageSize = Size(700f, 700f)
+)
+```
 
 ## Contributing
 
