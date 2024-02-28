@@ -54,7 +54,7 @@ dependencies {
     implementation("androidx.core:core-splashscreen:1.0.1")
     implementation("androidx.compose.ui:ui")
     implementation("androidx.compose.ui:ui-tooling-preview")
-    implementation("com.google.dagger:hilt-android:2.47")
+    implementation("com.google.dagger:hilt-android:2.51")
     debugImplementation("androidx.compose.ui:ui-tooling")
     kapt("com.google.dagger:hilt-android-compiler:2.47")
 }
