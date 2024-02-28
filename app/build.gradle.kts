@@ -56,5 +56,5 @@ dependencies {
     implementation("androidx.compose.ui:ui-tooling-preview")
     implementation("com.google.dagger:hilt-android:2.47")
     debugImplementation("androidx.compose.ui:ui-tooling")
-    kapt("com.google.dagger:hilt-android-compiler:2.47")
+    kapt("com.google.dagger:hilt-android-compiler:2.51")
 }
