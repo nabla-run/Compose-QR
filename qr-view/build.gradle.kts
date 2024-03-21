@@ -39,7 +39,7 @@ android {
 
 dependencies {
     implementation("androidx.compose.ui:ui:1.5.0")
-    implementation("androidx.compose.material:material:1.5.0")
+    implementation("androidx.compose.material:material:1.6.4")
     implementation("com.google.zxing:core:3.5.2")
 }
 
